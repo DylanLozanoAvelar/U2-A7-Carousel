@@ -23,7 +23,8 @@ samples, guidance on mobile development, and a full API reference.
 ## Resultado de la aplicación 
 ![image](https://github.com/DylanLozanoAvelar/U2-A7-Carousel/assets/143743272/df7b6489-7da5-4f4a-8da3-ce25f90ba6ed)
 ![image](https://github.com/DylanLozanoAvelar/U2-A7-Carousel/assets/143743272/c31a2b6b-3e49-4021-bb66-bf6509d790fc)
-![image](https://github.com/DylanLozanoAvelar/U2-A7-Carousel/assets/143743272/030f4cfa-7d9b-4046-962b-c86c1cf2c45e)
+![image](https://github.com/DylanLozanoAvelar/U2-A7-Carousel/assets/143743272/a9e661a9-2577-499b-8867-45d27aa0ce4f)
+![image](https://github.com/DylanLozanoAvelar/U2-A7-Carousel/assets/143743272/e6a1b620-1735-4f89-bdf7-03f54e81d890)
 ![image](https://github.com/DylanLozanoAvelar/U2-A7-Carousel/assets/143743272/42c3d68b-1535-4a4b-afbd-0cbab27bfcfe)
 
 
